@@ -2,7 +2,7 @@ const timetableData = {
     july: [
       {
         week: 'Friday, July 26',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Tom)']
+        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
       },
       {
         week: 'Saturday, July 27',
@@ -17,7 +17,7 @@ const timetableData = {
         classes: [
           '6:00 pm - 7:00 pm: Roben',
           '6:00 pm - 7:00 pm: Manjit',
-          '6:00 pm - 7:00 pm: Tom'
+          '6:00 pm - 7:00 pm: Oliver'
         ]
       }
     ],
@@ -30,7 +30,7 @@ const timetableData = {
         week: 'Saturday, August 3',
         classes: [
           '6:00 pm - 7:00 pm: Ichalthoibi',
-          '6:00 pm - 7:00 pm: Tom',
+          '6:00 pm - 7:00 pm: Oliver',
           '6:00 pm - 7:00 pm: Manjit'
         ]
       },
@@ -44,7 +44,7 @@ const timetableData = {
       },
       {
         week: 'Friday, August 9',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Tom)']
+        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
       },
       {
         week: 'Saturday, August 10',
@@ -58,7 +58,7 @@ const timetableData = {
         week: 'Sunday, August 11',
         classes: [
           '6:00 pm - 7:00 pm: Anju',
-          '6:00 pm - 7:00 pm: Tom',
+          '6:00 pm - 7:00 pm: Oliver',
           '6:00 pm - 7:00 pm: Roben'
         ]
       },
@@ -79,12 +79,12 @@ const timetableData = {
         classes: [
           '6:00 pm - 7:00 pm: Ichalthoibi',
           '6:00 pm - 7:00 pm: Anju',
-          '6:00 pm - 7:00 pm: Tom'
+          '6:00 pm - 7:00 pm: Oliver'
         ]
       },
       {
         week: 'Friday, August 23',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Tom)']
+        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
       },
       {
         week: 'Saturday, August 24',
@@ -97,7 +97,7 @@ const timetableData = {
       {
         week: 'Sunday, August 25',
         classes: [
-          '6:00 pm - 7:00 pm: Tom',
+          '6:00 pm - 7:00 pm: Oliver',
           '6:00 pm - 7:00 pm: Dhanamanjuri',
           '6:00 pm - 7:00 pm: Manjit'
         ]
@@ -119,14 +119,14 @@ const timetableData = {
       {
         week: 'Sunday, September 1',
         classes: [
-          '6:00 pm - 7:00 pm: Tom',
+          '6:00 pm - 7:00 pm: Oliver',
           '6:00 pm - 7:00 pm: Ichalthoibi',
           '6:00 pm - 7:00 pm: Dhanamanjuri'
         ]
       },
       {
         week: 'Friday, September 6',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Tom)']
+        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
       },
       {
         week: 'Saturday, September 7',
@@ -141,7 +141,7 @@ const timetableData = {
         classes: [
           '6:00 pm - 7:00 pm: Roben',
           '6:00 pm - 7:00 pm: Manjit',
-          '6:00 pm - 7:00 pm: Tom'
+          '6:00 pm - 7:00 pm: Oliver'
         ]
       },
       {
@@ -152,7 +152,7 @@ const timetableData = {
         week: 'Saturday, September 14',
         classes: [
           '6:00 pm - 7:00 pm: Ichalthoibi',
-          '6:00 pm - 7:00 pm: Tom',
+          '6:00 pm - 7:00 pm: Oliver',
           '6:00 pm - 7:00 pm: Manjit'
         ]
       },
@@ -166,7 +166,7 @@ const timetableData = {
       },
       {
         week: 'Friday, September 20',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Tom)']
+        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
       },
       {
         week: 'Saturday, September 21',
@@ -180,7 +180,7 @@ const timetableData = {
         week: 'Sunday, September 22',
         classes: [
           '6:00 pm - 7:00 pm: Anju',
-          '6:00 pm - 7:00 pm: Tom',
+          '6:00 pm - 7:00 pm: Oliver',
           '6:00 pm - 7:00 pm: Roben'
         ]
       },
@@ -201,7 +201,7 @@ const timetableData = {
         classes: [
           '6:00 pm - 7:00 pm: Ichalthoibi',
           '6:00 pm - 7:00 pm: Anju',
-          '6:00 pm - 7:00 pm: Tom'
+          '6:00 pm - 7:00 pm: Oliver'
         ]
       }
     ]
