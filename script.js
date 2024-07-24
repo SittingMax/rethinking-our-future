@@ -2,7 +2,7 @@ const timetableData = {
     july: [
       {
         week: 'Friday, July 26',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Oliver)']
       },
       {
         week: 'Saturday, July 27',
@@ -24,7 +24,7 @@ const timetableData = {
     august: [
       {
         week: 'Friday, August 2',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Ichalthoibi)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Ichalthoibi)']
       },
       {
         week: 'Saturday, August 3',
@@ -44,7 +44,7 @@ const timetableData = {
       },
       {
         week: 'Friday, August 9',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Oliver)']
       },
       {
         week: 'Saturday, August 10',
@@ -64,7 +64,7 @@ const timetableData = {
       },
       {
         week: 'Friday, August 16',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Ichalthoibi)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Ichalthoibi)']
       },
       {
         week: 'Saturday, August 17',
@@ -84,7 +84,7 @@ const timetableData = {
       },
       {
         week: 'Friday, August 23',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Oliver)']
       },
       {
         week: 'Saturday, August 24',
@@ -104,7 +104,7 @@ const timetableData = {
       },
       {
         week: 'Friday, August 30',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Ichalthoibi)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Ichalthoibi)']
       },
       {
         week: 'Saturday, August 31',
@@ -126,7 +126,7 @@ const timetableData = {
       },
       {
         week: 'Friday, September 6',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Oliver)']
       },
       {
         week: 'Saturday, September 7',
@@ -146,7 +146,7 @@ const timetableData = {
       },
       {
         week: 'Friday, September 13',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Ichalthoibi)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Ichalthoibi)']
       },
       {
         week: 'Saturday, September 14',
@@ -166,7 +166,7 @@ const timetableData = {
       },
       {
         week: 'Friday, September 20',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Oliver)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Oliver)']
       },
       {
         week: 'Saturday, September 21',
@@ -186,7 +186,7 @@ const timetableData = {
       },
       {
         week: 'Friday, September 27',
-        classes: ['6:00 pm - 7:00 pm: Rozy (Backup: Ichalthoibi)']
+        classes: ['6:00 pm - 7:00 pm: Rosy (Backup: Ichalthoibi)']
       },
       {
         week: 'Saturday, September 28',
